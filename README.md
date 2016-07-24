@@ -5,9 +5,11 @@ Jumpstarter website inspired by the gorgeous Semplice framework (also like nerva
 ## Using The Following Frameworks 
 
 - Animate.css: set of multipurpose animations - http://daneden.me/animate
-- Animsition.min.css: page transisitions library – http://blivesta.github.io/animsition/
+- Animsition.min.css: page transisitions library – http://git.blivesta.com/animsition/
+	- NB: Not installed yet properly
 - WOW.js 
 - Headroom.js
+- Kinetic - automated smooth drag scrolling – https://github.com/dzek69/vanilla.kinetic
 
 
 ## Major work in progress
